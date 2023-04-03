@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+  }
+  
+  canvas {
+    border: 1px solid white;
+  }
+h1 {
+    color: white;
+}  
+#author {
+    bottom: 40px;
+    display: block;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding-left: 70px;
+}
+#author span {
+    font-size: 10px;
+    margin-left: 20px;
+    letter-spacing: 4px;
+}
+
+#author h1 {
+    font-size: 25px;
+}
